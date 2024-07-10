@@ -1,0 +1,19 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body_backgorund {
+	background-image: url("https://img.freepik.com/free-vector/colorful-frame-template-art-element-tools_1308-159008.jpg");
+	background-size:cover;
+	background-position: center;
+}
+
+#myCanvas{
+	border-width:10px;
+	background-color:white;
+	border-style: ridge;
+
+}
